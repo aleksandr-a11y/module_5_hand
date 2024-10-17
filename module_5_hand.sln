@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "module_5_hand", "module_5_hand.pyproj", "{F6ADCBD3-0C09-4327-B1CF-11A66263D2EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6ADCBD3-0C09-4327-B1CF-11A66263D2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6ADCBD3-0C09-4327-B1CF-11A66263D2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0534B39E-5785-4CBC-99E0-2D80A8B0FD2D}
+	EndGlobalSection
+EndGlobal
